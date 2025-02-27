@@ -3,6 +3,11 @@
 This script transforms your entire codebase into a perfectly tagged text file—ideal for tools like ChatGPT.
 It uses [gitingest](https://gitingest.com/).
 
+
+![image](https://github.com/user-attachments/assets/0328099d-f8a9-4059-9819-ff0ad27db94e)
+
+
+
 ## Prerequisites
 
 - **Windows Users:** Run the script in a WSL terminal.
