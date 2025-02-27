@@ -1,0 +1,24 @@
+<goal>
+ 
+</goal>
+
+<output_requirements>
+- Don't be lazy, provide thorough, high-quality code.
+- Provide complete file contents for any modified or new files.
+- Write clean, well-documented code with appropriate error handling.
+- Never use ellipsis (...) or placeholder comments.
+- Handle edge cases and add input validation where appropriate.
+</output_requirements>
+
+<context>
+    <codebase>
+Directory structure:
+└── /./
+    └── test.txt
+
+================================================
+File: /test.txt
+================================================
+cool init?
+    </codebase>
+</context>
